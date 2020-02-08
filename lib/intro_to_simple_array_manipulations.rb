@@ -8,7 +8,6 @@ def using_pop(array)
   array.pop
 end
 def shift_with_args(array)
-  removed[]
-  removed = array.shift()
-  removed = removed.push(array.shift())
+  array.shift(2)
+
 end
